@@ -7,13 +7,13 @@ npm install<br/>
 npm run build<br/>
 npm start<br/>
 
-#Exercise-1 Rendering React to DOM<br/>
+# [√] Exercise-1 Rendering React to DOM<br/>
 Render "Hello from React" to the div in index.html with an id of "root".
 
-#Exercise-2 Creating a Functional Component in React<br/>
+# [√]Exercise-2 Creating a Functional Component in React<br/>
 Create folder called Components within the client folder. Inside of components folder, create a file called App.jsx and build out a functional react component in that file that renders "Hello from Component" onto the DOM.
 
-#Exercise-3 Passing Props into A Funcitonal Component<br/>
+# [√] Exercise-3 Passing Props into A Funcitonal Component<br/>
 Pass your first and last name down as props to your component from index.jsx
 
 #Exercise-4 Refactoring a Functional Component to a Stateful Component<br/>
